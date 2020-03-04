@@ -10,3 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is a markdown file
+Text file to upload to git
